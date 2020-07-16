@@ -1,0 +1,425 @@
+TY  - ICOMM
+AU  - Львовский, С. М.
+T1  - Набор и вёрстка в системе LaTeX
+T2  - 3-е издание, исправленное и дополненное
+UR  - https://dist-tutor.info/file.php/598/Literatura/newllang.pdf
+PY  - 2003
+KW  - LaTeX
+Y2  - 2003-12-29
+LA  - russian
+Y3  - 2017-03-01
+M4  - Citavi 
+ER  -
+
+TY  - ICOMM
+AU  - Baldin, Evgeny
+T1  - Компьютерная типография LaTeX
+UR  - http://ctan.tug.org/info/russian/Computer_Typesetting_Using_LaTeX/ctex.pdf
+PY  - 2012
+KW  - LaTeX
+Y2  - 2012-03-11
+LA  - russian
+T5  - (engl.Computer Typesetting Using LaTeX)
+Y3  - 2014-09-23
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Sievers, Martin
+T1  - Zusammen sind sie stark
+T2  - Argumente aus der Praxis für biblatex und Biber
+UR  - https://www.dante.de/events/Herbst2018/Programm/Vortraege/vortragMartin.pdf
+PY  - 2018
+KW  - Biber
+KW  - BibLaTeX
+KW  - biblatex.sty
+KW  - DANTE-Herbsttagung 2018 Chemnitz
+KW  - LaTeX
+KW  - LaTeX-Paket
+KW  - Literaturverwaltung
+Y2  - 2018-09-15
+AB  - Mittlerweile sind biblatex und Biber in weiten Teilen der TeX-Welt als „Nachfolger“ von BiBTeX und dessen Style-Dateien akzeptiert.
+Die oftmals genannten Vorzüge wie die Unterstützung zusätzlicher Eintragstypen und -felder, die Integration vormals in Paketen verpackter
+Funktionen, z.B. zu Mehrsprachigkeit und Filterung der Ausgabe, sowie die LaTeX-Syntax zur Steuerung der Ausgabe sind dafür wichtige
+Argumente.
+
+Darüber hinaus bietet biblatex im Zusammenspiel mit Biber aber auch eine sehr mächtige Schnittstelle, um Bibliographiedaten vor ihrer
+Verarbeitung mit Hilfe regulärer Ausdrücke umzubauen. Zudem kann das interne Datenmodell nahezu beliebig erweitert und die Ausgabe
+entsprechend angepasst werden.
+
+Eine häufige Anwendung findet dies in meiner täglichen Arbeit mit Daten, die aus dem Literaturverwaltungsprogramm Zotero exportiert
+wurden. Hierbei werden die Möglichkeiten, die biblatex zur detaillierten Erfassung von Literatur bietet, nur unzureichend genutzt. Zudem
+gibt es immer wieder projektspezifische Fälle, die nur über eine „Hilfssyntax“in Zotero erfasst werden können und anschließend in eine
+geeignete biblatex-Form gebracht werden müssen.
+
+Der Vortrag zeigt anhand einiger konkreter Beispiele wie das interne biblatex-Datenmodell erweitert werden kann und die gelieferten
+Daten im Sinne der gewünschten Ausgabe manipuliert werden können.
+LA  - ngerman
+Y3  - 2018-10-29
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Fenn, Jürgen
+T1  - Zur Neuauflage von: „Elke und Michael Niedermair: LaTeX. Das Praxisbuch“
+UR  - http://ftp.uni-erlangen.de/ctan/digests/dtk/book_reviews/Niedermair_Praxisbuch_2.pdf
+PY  - 2005
+KW  - Buchbesprechung
+KW  - DANTE e.V.
+KW  - Die TeXnische Komödie
+KW  - LaTeX
+KW  - Nachdruck
+Y2  - 2005-05-23
+AB  - Ein Hinweis auf die Neuauflage von „LATEX. Das Praxisbuch“ von Elke und Michael Niedermair im Anschluss an die Rezension der ersten Auflage in DTK 4/ 2004, Seite 45 ff. Hier soll nur auf Änderungen gegenüber der ersten Auflage hingewiesen werden.
+LA  - ngerman
+Y3  - 2016-04-25
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Entenmann, Walter
+AU  - Entenmann, Andreas
+T1  - Zum Entwurf von Postern
+T2  - DANTE-Tagung Heidelberg
+UR  - http://www.dante.de/events/dante2014/Programm/Vortraege/entenmann.pdf
+PY  - 2014
+KW  - DANTE e.V.
+KW  - DANTE-Tagung 2014 Heidelberg
+KW  - LaTeX
+KW  - Poster
+Y2  - 2014-04-11
+AB  - Dank des Pakets a0poster von Kettl und Weiser kann man Poster für Wissenschaftliche Tagungen oder als Schautafeln allein mit den üblichen Formatierungsanweisungen von LaTeX in einfacher Weise entwerfen. Vorgaben des Corporate Identity Designs einer Institution lassen sich problemlos berücksichtigen, wenn die Files für Logo und Schriftzug und die Farbdefinitionen zur Verfügung stehen.
+
+Nach einer kurzen Erläuterung der Eigenschaften und der Anwendung der Dokumentklasse a0poster, folgen einige Überlegungen zur grundsätzlichen
+Gestaltung von Postern für wissenschaftliche Kongresse. Von Interesse sind dabei auch einige Hilfsmittel zur Erzeugung eines DIN A4 großen Kontrollausdrucks, zur Wandlung des Ausgabeformats und zur Zerlegung des Posters in druckbare Teilseiten.
+
+Anhand eines konkreten Beispiels werden die einzelnen Entwurfsschritte veranschaulicht und exemplarisch in einem Stilfile zusammengefasst.
+LA  - ngerman
+Y3  - 2014-04-27
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Sawatzky, Elisabeth
+T1  - Zitieren mit Write-N-Cite 4 (Anleitung für Windows)
+UR  - https://kim.uni-hohenheim.de/fileadmin/einrichtungen/kim/WNC4_Anleitung.pdf
+PY  - 2014
+KW  - Anleitung
+KW  - Windows
+KW  - Write-N-Cite 4
+KW  - Zitation
+A2  - Universität Hohenheim
+Y2  - 2014-07-07
+LA  - ngerman
+Y3  - 2015-03-12
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Glatz, Martin
+T1  - Zitieren mit LaTeX-Kurs
+UR  - http://mathematik.oehunigraz.at/files/2012/07/nachtrag-zitieren.pdf
+PY  - 2012
+KW  - Kurs
+KW  - LaTeX
+KW  - Zitation
+A2  - Universität Graz, IG Mathematik
+Y2  - 2012-12-12
+LA  - ngerman
+Y3  - 2016-06-05
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Kormann, Julia
+T1  - Zitieren mit einem Klick
+T2  - Citavi
+UR  - https://www.hs-neu-ulm.de/fileadmin/user_upload/Bibliothek/Literaturverwaltung/Citavi-Styles/Zitieren_mit_einem_Klick_-_Citavi_Präsentation.pdf
+PY  - 2017
+KW  - Citavi
+KW  - PowerPoint-Präsentation
+A2  - HS Neu-Ulm
+Y2  - 2017-06-12
+LA  - ngerman
+Y3  - 2017-07-02
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Haisman, Václav
+T1  - zero width space
+UR  - ftp://ftp.tu-chemnitz.de/pub/tex/macros/latex/contrib/uspace/uspace-test-lualatex.pdf
+PY  - 2016
+KW  - LaTeX
+KW  - Leerzeichen
+KW  - Zeilenumbruch
+Y2  - 2016-11-06
+LA  - english
+Y3  - 2016-12-01
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Behrendt, Doris
+T1  - Zeichnungen zum Bayernabi
+T2  - Geometrieteil, Aufgabengruppe I, G8, 2011
+UR  - http://www.dante.de/events/mv45/Programm/behrendt/folien-behrendt.pdf
+PY  - 2011
+KW  - DANTE-Herbsttagung 2011 Garmisch-Partenkirchen
+KW  - Geometrie
+KW  - Mathematik
+Y2  - 2011-10-06
+LA  - ngerman
+Y3  - 2011-10-15
+M4  - Citavi
+ER  -
+
+TY  - CONF
+SN  - 1438-9959
+AU  - Partosch, Günter
+AU  - Wilhelms, Gerhard
+T1  - Paperless TeX
+PY  - 1999
+CY  - Heidelberg
+T2  - EuroTeX'99 Paperless TeX
+KW  - EuroTeX 1999 Heidelberg
+KW  - Tagungsband
+KW  - TeX
+A2  - Partosch, Günter
+A2  - Wilhelms, Gerhard
+UR  - http://www.staff.uni-giessen.de/partosch/eurotex99/PostScript/euro99.pdf
+Y2  - 2012-07-25
+T4  - EuroTeX '99 Proceedings
+Y3  - 2012-07-26
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Aye, Gareth
+T1  - Introducing LaTeX Base
+JF  - TUGBoat
+SP  - 275
+EP  - 276
+IS  - 3
+VL  - 37
+PY  - 2016
+KW  - Editor
+KW  - Einführung
+KW  - LaTeX
+A2  - TeX Users Group
+UR  - https://www.tug.org/TUGboat/tb37-3/tb117aye.pdf
+Y2  - 2016-11-07
+T3  - TUGBoat
+AB  - LaTeX Base (https://latexbase.com) is a webbased LATEX editor that provides many useful features such as • live, compile-as-you-type document preview, • one-click document publishing and sharing, • offline mode, • integrations with file storage services like Google Drive and Dropbox, • syntax highlighting, • and familiar keyboard shortcuts for Vim and Emacs users. This article focuses on the technical side of the interactions between LaTeX Base and LATEX. However, we’re eager to hear from users about their experiences using the service; please feel free to reach out to us at team@latexbase.com with suggestions or if you’d like to beta test new features. Many features do require a premium membership. Figure 1 shows the first page presented after loading, with simple LaTeX source on the left and the preview output on the right.
+LA  - english
+Y3  - 2018-01-02
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Cereda, Paulo Roberto Massa
+T1  - Easy TeX automation with arara
+JF  - Ars TeXnica
+SP  - 84
+EP  - 89
+IS  - 20
+PY  - 2015
+KW  - automatisch
+KW  - LaTeX
+KW  - TeX
+KW  - Übersetzung
+KW  - XeLaTeX
+UR  - https://www.guitex.org/home/images/ArsTeXnica/AT020/cereda.pdf
+Y2  - 2015-10-20
+T3  - Ars TeXnica
+AB  - This article introduces arara, a TEX automation tool based on rules and directives. The tool is an effort to provide a concise way to automate the daily TEX workflow for users and also package writers. The author presents a quick tutorial on how arara works and unveils some of the new features and improvements of the upcoming version.
+LA  - english
+Y3  - 2019-02-08
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Cereda, Paulo Roberto Massa
+T1  - The bird and the lion
+JF  - TUGBoat
+SP  - 37
+EP  - 40
+IS  - 1
+VL  - 36
+PY  - 2015
+KW  - arara
+KW  - LaTeX
+KW  - Übersetzung
+UR  - https://tug.org/TUGboat/tb36-1/tb112cereda.pdf
+Y2  - 2015-04-06
+T3  - TUGBoat
+AB  - There I was, back in 2011, with a huge project in my hands: a songbook. But it was far from any ordinary book due to the involved complexity: each song had several tags and at least 25 indexes, with different styles! Of course, TEX and friends were able to tackle this beast on their own, but I was not prepared. The lion was definitely hungry and I was the typographic meat provider.
+LA  - english
+T4  - arara
+Y3  - 2019-02-08
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Cho, Jin-Hwan
+T1  - Hacking DVI files
+JF  - TUGBoat
+SP  - 210-207
+IS  - 2
+VL  - 28
+PY  - 2007
+KW  - DVI
+KW  - DVIasm
+KW  - TeX
+UR  - http://tug.org/TUGboat/Articles/tb28-2/tb89cho.pdf
+Y2  - 2007-07-09
+T3  - TUGBoat
+AB  - This paper is devoted to the first step of developing a new DVI editing utility, called DVIasm. Editing DVI files consists of three parts: disassembling, editing, and assembling. DVIasm disassembles a DVI file to a human-readable text format (more flexible than DTL), and assembles the output back to a DVI file. DVIasm is useful for people who have a DVI file without TEX source, but need to modify the document. It enables us to put a preprint number, a watermark, or an emblem on the document without touching the TEX source. DVIasm is attractive to even a TEX expert who wants to modify a few words in his document more than a hundred pages long. We discuss in the paper how DVIasm supplements TEX. The current version supports only the standard DVI file format as in DVItype and DTL. The next versions will support 16-bit TEX extensions including Omega, pTEX, and XeLaTeX
+LA  - english
+T4  - Birth of DVIasm
+Y3  - 2019-02-07
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Cho, Jin-Hwan
+T1  - Handling Two-Byte Characters with DVIasm
+JF  - The Asian Journal of TeX
+SP  - 63
+EP  - 68
+IS  - 1
+VL  - 2
+PY  - 2008
+KW  - DVIasm
+KW  - TeX
+UR  - http://ajt.ktug.kr/assets/2008/5/1/0201cho.pdf
+Y2  - 2008-04-21
+T3  - The Asian Journal of TEX
+AB  - This paper is devoted to the second step of developing a new DVI editing utility, called DVIasm. DVIasm disassembles a DVI file into a human-readable text file the contents of which are easy to modify, and assembles the output back to the binary DVI format. The main theme of this paper is two-byte characters such as Chinese, Japanese, Korean, and Unicode characters. We discuss how DVIasm handles two-byte characters that are supposed to be typeset by 16-bit TEX extensions such as Omega and Japanese pTEX, or LATEX packages with subfont scheme such as CJK-LATEX and Korean ko.TEX.
+LA  - english
+Y3  - 2019-02-07
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+SN  - 1659 0643
+AU  - Cuevas A., Jesús H.
+AU  - Rodriguez A., Juan J.
+T1  - Textos reproducibles y dinámicos con PythonTeX
+JF  - Revista digital Matemática, Educación e Internet
+IS  - 2
+VL  - 15
+PY  - 2015
+KW  - LaTeX
+KW  - Python
+KW  - PythonTeX
+UR  - https://tecdigital.tec.ac.cr/revistamatematica/Secciones/Didactica_y_Software/RevistaDigital_Cuevas_V15_n2_2015/RevistaDigital_Cuevas_V15_n2_2015.pdf
+Y2  - 2015-03-05
+AB  - This paper describes the process of installing and use of the PythonTeX package in the developing a reproducible and dynamic text. The technological requeriments and operation protocol are indicated in examples where operations with matrix and basic statistical descriptive are made.
+LA  - spanish
+Y3  - 2018-03-21
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Garcia, Federico
+T1  - Hypertext capabilities with pdfLaTeX
+JF  - TUGBoat
+SP  - 129
+EP  - 132
+IS  - 1
+VL  - 28
+PY  - 2007
+KW  - Hypertext
+KW  - LaTeX
+KW  - pdfLaTeX
+UR  - https://www.tug.org/TUGboat/tb28-1/tb88garcia.pdf
+Y2  - 2007-03-14
+T3  - TUGBoat
+LA  - english
+Y3  - 2017-06-01
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Giacomelli, Roberto
+AU  - Pignalberi, Gianluca
+T1  - Typesetting and highlighting Unicode source code with LaTeX
+JF  - Ars TeXnica
+SP  - 39
+EP  - 44
+IS  - 18
+PY  - 2014
+KW  - fancyvrb.sty
+KW  - jvlisting.sty
+KW  - LaTeX
+KW  - LaTeX-Paket
+KW  - minted.sty
+KW  - pygmentize
+KW  - PythonTeX
+KW  - pythontex.sty
+KW  - Quellcode
+KW  - Unicode
+KW  - verbatim.sty
+KW  - verbments.sty
+UR  - http://www.guitex.org/home/images/ArsTeXnica/AT018/UnicodeSC.pdf
+Y2  - 2014-10-20
+T3  - Ars TeXnica
+AB  - LATEX offers its users several packages to typeset and highlight source code, ranging from the very basic one (verbatim) to the almost complete one (listings). How do they perform when their input is a Unicode source code? This paper addresses this question with focused tests and tries to lead readers to a choice, be it either definitive or case-driven.
+LA  - english
+T4  - a package comparison
+Y3  - 2018-03-21
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+SN  - 1749-4699
+AU  - Poore, Geoffrey M.
+T1  - PythonTeX
+JF  - Computational Science & Discovery
+SP  - 1
+EP  - 20
+IS  - 1
+VL  - 8
+PY  - 2015
+KW  - Julia
+KW  - LaTeX
+KW  - LaTeX-Paket
+KW  - Python
+KW  - PythonTeX
+KW  - pythontex.sty
+KW  - Ruby
+UR  - http://iopscience.iop.org/article/10.1088/1749-4699/8/1/014010/pdf
+JA  - Comput. Sci. Disc.
+Y2  - 2015-07-30
+AB  - Computational Science & Discovery, 8(2015) 014010. doi:10.1088/1749-4699/8/1/014010
+LA  - english
+TS  - CrossRef
+T4  - Reproducible documents with LaTeX, Python, and more
+Y3  - 2018-03-21
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Pohlmann, Brent
+T1  - Learning to Write Calculus Solutions
+SP  - 391
+EP  - 396
+IS  - 3
+VL  - 15
+PY  - 2018
+KW  - LaTeX
+A2  - University of Montana
+UR  - https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1434&context=tme
+Y2  - 2018-05-29
+T3  - The Mathematics Enthusiast
+AB  - We explore the use of LATEX to typeset solutions to calculus problems. We hypothesize
+that solving one problem completely, and presenting that solution properly, helps to strengthen students'
+overall problem solving and mathematical abilities. Several specic examples are given to demonstrate
+how these changes occurred within in an individual Calculus III course.
+LA  - english
+T4  - An Experiment in LaTeX
+Y3  - 2018-07-03
+M4  - Citavi
+ER  -
+

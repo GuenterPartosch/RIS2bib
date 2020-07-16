@@ -1,0 +1,502 @@
+TY  - CHAP
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Beitrag in Autorschriften
+T2  - Titel - Schriften eines Autors.Untertitel
+ED  - Mitarbeiter
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Verlag
+ET  - Auflage
+KW  - Schlagwort1
+KW  - Schlagwort2
+IS  - Heftnummer
+N1  - Notiz
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+VL  - Jahrgang
+SV  - Bandnummer
+SP  - Seitenvon-Seitenbis
+Y2  - letzte Aktualisierung
+T3  - Reihentitel
+AB  - abstract abstract abstract abstract abstract abstract abstract abstract abstract 
+   abstract abstract abstract 
+LA  - Sprache
+N1  - Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz Notiz 
+   Notiz Notiz Notiz 
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - CHAP
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Beitrag in Sammelwerk
+T2  - Titel - Sammelwerk.Untertitel
+ED  - Herausgeber
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Verlag
+ET  - Auflage
+KW  - Schlagwort1
+KW  - Schlagwort2
+IS  - Heftnummer
+N1  - Notiz
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+VL  - Jahrgang
+SV  - Bandnummer
+SP  - Seitenvon-Seitenbis
+Y2  - letzte Aktualisierung
+T3  - Reihentitel
+AB  - abstract
+LA  - Sprache
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - CPAPER
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Beitrag in Tagungsband
+T2  - Titel - Tagungsband.Untertitel
+ED  - Herausgeber
+PY  - Jahr
+CY  - Verlagsort
+PB  - Verlag
+ET  - Auflage
+KW  - Schlagwort1
+KW  - Schlagwort2
+IS  - Heftnummer
+N1  - Notiz
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+VL  - Jahrgang
+SV  - Reihennummer
+SP  - Seitenvon-Seitenbis
+Y2  - letzte Aktualisierung
+T3  - Reihentitel
+AB  - abstract
+LA  - Sprache
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+C7  - Tagungsname
+C1  - Tagungsort
+C4  - Veranstaltungsdatum
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - UNPB
+SN  - Reihennummer
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - GrauLiteratur
+T2  - Reihentitel
+PY  - letzte Aktualisierung
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Institution
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+Y1  - Jahr
+ED  - Herausgeber
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+SP  - Seitenzahl
+AB  - Abstract
+LA  - Sprache
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - THES
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Hochschulschrift
+PY  - Jahr
+DA  - letzte Aktualisierung
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Institution
+U2  - Notiz
+ET  - Auflage
+T2  - Untertitel
+KW  - Schlagwort1
+KW  - Schlagwort2
+IS  - Reihennummer
+A2  - Herausgeber
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+T3  - Reihentitel
+AB  - Abstract
+LA  - Sprache
+M3  - Schriftart
+TS  - Quelle
+DO  - 10.1000/182
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - ICOMM
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - internetdokument
+T2  - Untertitel
+UR  - URL
+PY  - Jahr
+ET  - Version
+KW  - Schlagwort1
+KW  - Schlagwort2
+CY  - Erscheinungsort1; Erscheinungsort2
+IS  - Reihennummer
+A2  - Herausgeber
+N1  - Notiz
+TT  - übersetzter Titel
+A3  - Mitarbeiter
+Y2  - letzte Aktualisierung
+T3  - Reihentitel
+AB  - Abstract
+LA  - Sprache
+IN  - Institution
+DO  - 10.1000/182
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - BOOK
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Monographie
+T2  - Reihentitel
+PY  - Jahr
+CY  - Verlagsort
+PB  - Verlag
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+A2  - Mitarbeiter
+UR  - URL
+A4  - weitere Beteiligte
+NV  - Bandzahl
+VL  - Reihennummer
+SP  - Seiten
+Y2  - letzte Aktualisierung
+AB  - Abstarct
+LA  - Sprache
+IN  - Institution
+TT  - übersetzter Titel
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Zusatztitel
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - PCOMM
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - pers. Mitteilung
+T2  - Reihentitel
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+DA  - letzte Aktualisierung
+IS  - Reihennummer
+A2  - Empfänger
+ED  - Herausgeber
+UR  - URL
+A4  - weitere Beteiligte
+SP  - Seitenzahl
+Y2  - zuletzt geprüft
+AB  - Abstract
+LA  - Sprache
+IN  - Institution
+M3  - MItteilungsform
+TT  - übersetzter Titel
+TS  - Quelle
+DO  - 10.1000/182
+T4  - Untertitel
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - BOOK
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Schriften eines Autors
+T2  - Reihentitel
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Verlag
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+A2  - Herausgeber
+ED  - Mitarbeiter
+UR  - URL
+A4  - weitere Beteiligte
+NV  - Bandanzahl
+VL  - Bandnummer
+SP  - Seitenzahl
+Y2  - letzte Aktualisierung
+AB  - Abstarct
+LA  - Sprache
+TT  - übersetzter Titel
+TS  - Quelle
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - COMP
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Software
+T2  - Reihentitel
+PY  - Jahr
+CY  - Verlagsort
+PB  - Verlag
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+A2  - Mitarbeiter
+UR  - URL
+A4  - weitere Beteiligte
+NV  - Bandzahl
+VL  - Bandnummer
+SP  - Seiten
+Y2  - letzte Aktualisierung
+AB  - Abstarct
+LA  - Sprache
+IN  - Institution
+TT  - übersetzter Titel
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Technische Details
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - GEN
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - unklar
+T2  - Reihentitel
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Verlag
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+IS  - Reihennummer
+A2  - Mitarbeiter
+ED  - Herausgeber
+UR  - URL
+JF  - Zeitschrift
+A4  - weitere Beteiligte
+NV  - Bandanzahl
+VL  - Bandnr
+SP  - Seitenzahl
+Y2  - letzte Aktualisierung
+AB  - Abstract
+LA  - Sprache
+IN  - Institution
+TT  - übersetzter Titel
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - BOOK
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Vortrag
+T2  - Vortragsreihe
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+IS  - Reihennummer
+A2  - Veranstalter
+ED  - Herausgeber
+UR  - URL
+A4  - weitere Beteiligte
+SP  - Seitenzahl
+Y2  - letzte Aktualisierung
+AB  - Abstract
+LA  - Sprache
+IN  - Institution
+TT  - übersetzter Titel
+TS  - Quelle
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - JOUR
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Zeitschriftenaufsatz
+JF  - Zeitschrift
+SP  - Seitenvon-Seitenbis
+IS  - Heftnummer
+VL  - Jahrgang
+PY  - Jahr
+U3  - Notiz
+KW  - Schlagwort1
+KW  - Schlagwort2
+PB  - Verlag
+TT  - übersetzter Titel
+UR  - URL
+A3  - Mitarbeiter
+Y2  - letzte Aktualisierung
+AB  - abstract
+LA  - Sprache
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - NEWS
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Zeitungsartikel: Untertitel
+JF  - Zeitung
+SP  - Seitenvon-Seitenbis
+IS  - Heftnummer
+VL  - Jahrgang
+PY  - Jahr
+DA  - letzte Aktualisierung
+KW  - Schlagwort1
+KW  - Schlagwort2
+TT  - übersetzter Titel
+CY  - Ort
+N1  - Notiz
+UR  - URL
+A3  - Mitarbeiter
+Y2  - zuletzt geprüft
+AB  - abstract
+LA  - Sprache
+M1  - Seitenvon-Seitenbis
+DO  - 10.1000/182
+T5  - Titelzusatz
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - BOOK
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Sammelwerk
+T2  - Reihentitel
+PY  - Jahr
+CY  - Erscheinungsort1; Erscheinungsort2
+PB  - Verlag
+KW  - Schlagwort1
+KW  - Schlagwort2
+ET  - Auflage
+U3  - Notiz
+A2  - Herausgeber/Mitarbeiter
+ED  - Herausgeber
+UR  - URL
+A4  - weitere Beteiligte
+NV  - Bandanzahl
+VL  - Bandnummer
+SP  - Seitenzahl
+Y2  - letzte Aktualisierung
+AB  - Abstarct
+LA  - Sprache
+IN  - Institution
+TT  - übersetzter Titel
+TS  - Quelle
+DO  - 10.1000/182
+T4  - Untertitel
+T5  - Titelzusatz
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+
+TY  - CONF
+SN  - 0-201-12110-7
+AU  - Autor1, Vorname
+AU  - Autor2, Vorname
+T1  - Titel - Tagungsband
+PY  - Jahr
+CY  - Tagungsort
+PB  - Verlag
+ET  - Auflage
+T2  - Tagungsname
+KW  - Schlagwort1
+KW  - Schlagwort2
+A2  - Herausgeber
+N1  - Notiz
+TT  - übersetzter Titel
+UR  - URL
+JA  - Zusatztitel
+A3  - Mitarbeiter
+VL  - Reihennummer
+Y2  - letzte Aktualisierung
+T3  - Reihentitel
+AB  - Abstarct
+DO  - 10.1000/182
+T4  - Untertitel
+Y3  - zuletzt geprüft
+AD  - Affiliation
+M4  - Citavi
+ER  -
+

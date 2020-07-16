@@ -1,0 +1,9 @@
+﻿Modules needed
+==============
+
+import re                       # regular expressions
+from unidecode import unidecode # mapping unicode characters to ASCII
+import sys                      # system calls
+import platform                 # get OS informations
+import argparse                 # argument parsing
+import time                     # get time/date of file

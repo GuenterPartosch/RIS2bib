@@ -1,0 +1,28 @@
+﻿Examples
+========
+
+RIS2bib -h                                               [-h]
+   - help; show the options
+
+RIS2bib inp.ris -o out.bib                               [-o]
+   - simple call
+
+RIS2bib inp.ris -o out.bib -v                            [-o, -v]
+   - as above
+   - verbose output
+
+RIS2bib inp.ris -o out.bib -b -v                         [-o, -b, -v]
+   - as above
+   - generated BibTeX keys are shown
+
+RIS2bib inp2.ris -o out2.bib -v -c corr.py -b            [-o, -v, -c, -b]
+   - as above
+   - with some new conversion rules in corr.py;
+     the file corr.py must be in a special format, e.g.
+
+     config["UNPB"]["SN"] = "isbn"
+     config["UNPB"]["U3"] = "note"
+
+RIS2bib inp2.ris -o out2.bib -s ["note","abstract"] -v   [-o, -s, -v]
+   - the BibTeX fields "note" and "abstract" are skipped
+

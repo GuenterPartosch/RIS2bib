@@ -1,0 +1,22 @@
+Messages
+========
+
+Fatal messages
+--------------
+input file" <input file> could not be opened; program terminated
+
+Other error messages
+--------------------
+correction file <correction file> could not be opened
+Line <line nr>: actual record not completed by 'ER  -'; skipped
+Line <line nr>: RIS type incorrect in '<line>'; 'GEN' supposed
+Line <line nr>: empty bibfield for <RIS type> <RIS key> in '<line>'; collected in 'note'
+Line <line nr>: unknown riskey for", <RIS type> <RIS key> in '<line>'
+
+Informative messages
+--------------------
+File <correction file> with additional conversion rules read
+Program call: <program name> <arguments>
+Program finished
+Generated BibTeX keys
+

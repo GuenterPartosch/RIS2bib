@@ -1,0 +1,24 @@
+﻿Usage
+=====
+usage: RIS2bib.py [-h] [-a] [-o OUT_FILE] [-c CORRECTION_FILE] [-s SKIP] [-v]
+                  [-b] [-V]
+                  in_file
+
+converts RIS files to .bib files [RIS2bib.py; Version: 1.7 (2020-07-16)]
+
+Positional parameters:
+  in_file               name for input file; Default:
+
+Optional parameters:
+  -h, --help            show this help message and exit
+  -a, --author          author of the program
+  -o OUT_FILE, --output OUT_FILE
+                        name for output file; Default: out-test.bib
+  -c CORRECTION_FILE, --correction CORRECTION_FILE
+                        name for a file with additional conversion rules;
+                        Default:
+  -s SKIP, --skip SKIP  skip BibTeX fields; Default: []
+  -v, --verbose         Flag: verbose output; Default: False
+  -b, --bibtexkeys      Flag: show the generated BibTeX keys; Default: False
+  -V, --version         version of the program
+

@@ -28,5 +28,3 @@ Converts RIS files to .bib files for BibLaTeX
    execution time messages
 * [RIS2Bib-modules.txt](https://github.com/GuenterPartosch/RIS2bib/blob/master/RIS2Bib-modules.txt "needed modules"): 
    needed modules
-
-https://github.com/GuenterPartosch/RIS2bib/blob/master/

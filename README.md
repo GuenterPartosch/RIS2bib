@@ -14,8 +14,8 @@ Converts RIS files to .bib files for BibLaTeX
    Windows executable for RIS2bib.py
 * [RIS2Bib.man](https://github.com/GuenterPartosch/RIS2bib/blob/master/RIS2Bib.man "Manpage for RIS2bib.py"): 
    Manpage for RIS2bib.py
-* [RIS2bib.py](https://github.com/GuenterPartosch/RIS2bib/blob/master/RIS2bib.py "python program"): 
-   python program
+* [RIS2bib.py](https://github.com/GuenterPartosch/RIS2bib/blob/master/RIS2bib.py "Python program"): 
+   Python program
 * [RIS2bib.spec](https://github.com/GuenterPartosch/RIS2bib/blob/master/RIS2bib.spec "specification file for RIS2bib.exe"): 
    specification file for RIS2bib.exe
 * [RiS2bib.zip](https://github.com/GuenterPartosch/RIS2bib/blob/master/RiS2bib.zip "ZIP archive with related files"): 
